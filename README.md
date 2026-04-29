@@ -1,2 +1,14 @@
-# BMI-Diet-Planner-Bot
-This is BMI Diet Planner Chatbot .An AI-powered chatbot that calculates Body Mass Index (BMI) from user inputs (height and weight) and provides personalized diet recommendations based on health categories (underweight, normal, overweight, and obese).
+---
+title: DietPlan BMI Bot
+emoji: 📚
+colorFrom: purple
+colorTo: yellow
+sdk: gradio
+sdk_version: 5.38.2
+app_file: app.py
+pinned: false
+license: mit
+short_description: this is a diet bot  planner
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
